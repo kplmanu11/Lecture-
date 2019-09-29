@@ -1,0 +1,67 @@
+[33mcommit 94de34e22f2f0fd63e2f14ae32b921fb64fca5fe[m[33m ([m[1;36mHEAD -> [m[1;32mfirstbranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Kplmanu <kpl.neupane11@gmail.com>
+Date:   Sun Sep 29 15:36:43 2019 +0545
+
+    Feature 2 added
+
+[33mcommit 1458ba1c2ebddf750acac2156c1a1d564b03f987[m
+Author: Your Name <you@example.com>
+Date:   Fri May 31 22:54:45 2019 +0545
+
+    Added feature 2 to Feature branch
+
+[33mcommit 84756095707fa866ba15ef380c67082bd5254b64[m
+Author: Your Name <you@example.com>
+Date:   Fri May 31 22:51:38 2019 +0545
+
+    Changes made to feature branch
+
+[33mcommit 2dff48c682441663bcabf3453035e93c174142d5[m
+Author: Your Name <you@example.com>
+Date:   Fri May 31 22:34:20 2019 +0545
+
+    Edited hello.html
+
+[33mcommit 7940facdbba0c089d11a33395830a27d3a19b574[m
+Merge: 92c691e 63afdf6
+Author: Your Name <you@example.com>
+Date:   Fri May 31 22:31:49 2019 +0545
+
+    Resolved conflict
+
+[33mcommit 92c691ea63c78171bcdad7d6ed23bfed54b4e016[m
+Author: Your Name <you@example.com>
+Date:   Fri May 31 22:27:53 2019 +0545
+
+    Clearing all the content
+
+[33mcommit 63afdf64fe67ebd1b0455945838d32214afed2e5[m
+Merge: c03edad 3999416
+Author: Your Name <you@example.com>
+Date:   Fri May 31 19:34:24 2019 +0545
+
+    Third comment after merging the conflict
+
+[33mcommit c03edad076373cf5b9562336e419a2a30ea764ff[m
+Author: Your Name <you@example.com>
+Date:   Fri May 31 19:29:07 2019 +0545
+
+    Second changes to the html file
+
+[33mcommit 399941618d265d2b99c66ad2a16a4cb26adbc017[m
+Author: kplmanu11 <32862912+kplmanu11@users.noreply.github.com>
+Date:   Fri May 31 19:24:57 2019 +0545
+
+    Update hello.html
+
+[33mcommit 21f92cdba7db3a42f90a5f09aef67e1f4e5463bd[m
+Author: kplmanu11 <32862912+kplmanu11@users.noreply.github.com>
+Date:   Fri May 31 19:18:21 2019 +0545
+
+    Update hello.html
+
+[33mcommit ad2a48bf189e61ca115daacd412ee43cc85e69f7[m
+Author: Your Name <you@example.com>
+Date:   Fri May 31 19:09:46 2019 +0545
+
+    One html file had been added to the repository
